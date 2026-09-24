@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387371527744",
+    "project_id": "regicondo",
+    "storage_bucket": "regicondo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387371527744:android:8e423c49b1a6914966b9a5",
+        "android_client_info": {
+          "package_name": "com.example.regicondo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNO6zqjX5Bmu7q98wjxQVU8rkP5jHNdwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
